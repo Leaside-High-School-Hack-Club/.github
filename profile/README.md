@@ -1,8 +1,8 @@
 # Leaside Hack Club
 
-Welcome to the official GitHub organization of the **Leaside Hack Club**! 🎉
+Welcome to the official GitHub organization of the **Leaside High School Hack Club**! 🎉
 
-We are a student-led club at Leaside, dedicated to promoting programming, hardware projects, and open-source development. Our mission is to create a welcoming community for students who are passionate about technology, whether you're just starting out or already an experienced developer.
+We are a student-led club at Leaside High School, dedicated to promoting programming, hardware projects, and open-source development. Our mission is to create a welcoming community for students who are passionate about technology, whether you're just starting out or already an experienced developer.
 
 ## About Us
 
@@ -12,13 +12,13 @@ Founded in 2024, the Leaside Hack Club was started to fill a gap for students in
 
 Our activities include:
 - **Workshops:** Learn about programming, electronics, and more through hands-on tutorials.
-- **Competitions:** Participate in events like plane/boat-making competitions, coding challenges, and more.
+- **Competitions:** Participate in events like coding challenges, and ysws events.
 - **Projects:** Work on personal and collaborative projects, from web development to hardware design.
 - **Open Source:** Contribute to open-source projects and share your work with the community.
 
 ## How to Get Involved
 
-If you're a Leaside student interested in joining, check out our [sign-up form](https://hack.club/2ev78s) to get started! Whether you're new to programming or have a project idea in mind, we're here to support you.
+If you're a Leaside High School student interested in joining, check out our [sign-up form](https://hack.club/2ev78s) to get started! Whether you're new to programming or have a project idea in mind, we're here to support you.
 
 ## Contributing
 
