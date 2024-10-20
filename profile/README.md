@@ -39,4 +39,4 @@ Have questions or want to learn more? Feel free to reach out:
 
 ## License
 
-This organization and all its repositories are open source and licensed under the [MIT License](LICENSE).
+This organization and all its repositories are open source and licensed under the [MIT License](../LICENSE).
